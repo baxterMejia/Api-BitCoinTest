@@ -68,4 +68,4 @@ Installation & Usage
 npm install
 
 # Run the server
-npm start
+node server.js
